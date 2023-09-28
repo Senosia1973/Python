@@ -1,6 +1,6 @@
  class Escritor:
     """
-    Clase base para escritores.fdfds
+    Clase base para escritores.
 
     Atributos:
         nombre (str): El nombre del escritor.
