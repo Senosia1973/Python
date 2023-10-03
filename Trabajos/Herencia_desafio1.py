@@ -61,5 +61,9 @@ class Novelista(Escritor):
 
 
 novelista = Novelista("Gabriel García Márquez", 10)
-
-print(novelista.biografia())
+def main():
+        novelista= Novelista ("Gabriel Garcia Márquez", 10)
+        print(novelista.biografia())
+        
+        if_name_=="__main"__"
+            main()|   
